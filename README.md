@@ -24,6 +24,13 @@ One dated file per review (a single `reviews.md` with newest on top works), so n
 
 每周一条带日期的记录（一个 `reviews.md` 倒序放），下周的第一步是"读"而不是"考古"。跨周对比才让漂移显形：同一事项连顺三周，这就不是计划了，是一个待做的决定。
 
+## Honest limitations / 如实说明局限
+
+- The first review has no prior log to reconcile against — it sets the baseline instead.
+- "Evidence" for soft work (learning, relationships) is genuinely hard to name; the skill prefers an honest "no clean evidence" over a fake metric.
+
+第一次回顾没有历史日志可对账——它建立基线。软性工作（学习、关系）的"证据"确实难命名——诚实的"没有干净证据"好过假指标。
+
 ## Install / 安装
 
 ```bash
