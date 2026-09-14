@@ -1,0 +1,15 @@
+{
+  "name": "weekly-review",
+  "version": "0.1.0",
+  "description": "A weekly review that closes loops instead of producing vibes: reconcile outcomes against last week's stated intentions, bank the wins as evidence, move every carried-over item forward only with a fresh reason, pick a small number of commitments for next week, and log the review so next week's can be compared.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenneyZhuang/weekly-review.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
