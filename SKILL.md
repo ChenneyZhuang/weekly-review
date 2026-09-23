@@ -18,6 +18,10 @@ metadata:
 
 # Weekly Review: close loops, do not produce vibes
 
+## When to use
+
+Use weekly — typically Friday afternoon or Sunday evening — to close loose ends and set next week's commitments. Use after any period of drift. Not for daily planning or quarterly goal setting.
+
 A review that changes nothing is a diary. This one reconciles commitments
 against outcomes and leaves next week a small, checkable set.
 
@@ -63,3 +67,9 @@ Every commitment from last week has a state with evidence, unfinished work
 carries a fresh reason or an explicit drop, next week holds a small
 checkable set, and the dated log entry exists for next week to compare
 against.
+
+## Gotchas / 常见坑
+
+- Based on GTD's Get Clear / Get Current / Get Creative arc — a review that only scans the calendar skips inbox-to-zero and the project list, which is where drift hides.
+- Time-box it: over 60-90 minutes it stops happening; under 20 it's a glance.
+- The output is next week's commitments; a review without them is journaling, not reviewing.

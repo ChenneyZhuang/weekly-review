@@ -1,0 +1,23 @@
+{
+  "skill_name": "weekly-review",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我做本周回顾，顺便排下周的事",
+      "expected_output": "A review walking GTD's three phases: inbox cleared, project list current, calendar checked, and next week's commitments written down — not just a calendar glance.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Sunday review time — get my lists current",
+      "expected_output": "Clear (inbox/triage zero), Current (projects/calendar updated), Creative (one improvement noted), time-boxed, ending in next week's commitment list.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "每周复盘怎么做才能坚持下去",
+      "expected_output": "A sustainable weekly-review routine sized to the time-box with the three phases and the commitment output; advice scaled to keep it actually happening.",
+      "files": []
+    }
+  ]
+}
